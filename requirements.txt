@@ -1,0 +1,14 @@
+Flask
+pymongo
+mongoengine
+opencv-python
+scikit-image
+onnxruntime
+onnx
+requests
+faiss-cpu
+Flask-Cors
+kafka-python
+PyJWT
+jwt
+Flask-SocketIO
