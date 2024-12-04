@@ -8,7 +8,9 @@ __pycache__/
 images/
 models_temple/
 node_modules/
-models/
+
+#File Models
+*.onnx
 
 # Distribution / packaging
 .Python
